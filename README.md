@@ -1,5 +1,5 @@
 # PrimeSumDist
-This was the program used for my research paper in order to calculate the last digit distribution of prime and composite numbers. 
+This was the program used for my sophomore (HS) research paper in order to calculate the last digit distribution of prime and composite numbers. 
 
 In order to use this program, you should first use the psd.py file. You will need to change the paths of the files that it saves to.
 
